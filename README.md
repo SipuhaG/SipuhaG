@@ -10,4 +10,4 @@ SipuhaG/SipuhaG is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-This is my first visit of public forum so please don't throw tomatoes xD
+This is my first visit so please don't throw tomatoes xD
